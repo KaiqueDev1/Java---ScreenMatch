@@ -16,4 +16,7 @@ public class Filme {
         totalDeAvaliacoes++;
     }
 
+    double pegaMedia(){
+        return somaDasAvaliacoes / totalDeAvaliacoes;
+    }
 }
