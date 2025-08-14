@@ -9,5 +9,6 @@ public class Principal {
 
         System.out.println(meuFilme.nome);
         System.out.println(meuFilme.anoDeLancamento);
+
     }
 }
